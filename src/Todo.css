@@ -1,0 +1,27 @@
+.container{
+    width: 600px;
+    margin: auto;
+}
+.img{
+    width: 25px;
+    padding: 0;
+}
+.done{
+    text-decoration: line-through;
+}
+ul{
+    list-style: none;
+    padding: 0%;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+    word-break: break-all;
+    
+}
+.card{
+    box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.2);
+}
